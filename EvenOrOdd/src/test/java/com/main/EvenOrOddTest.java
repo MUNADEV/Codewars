@@ -5,15 +5,11 @@ import static org.junit.Assert.assertEquals;
 public class EvenOrOddTest {
     @Test
     public void EvenOrOddTest(){
-        String even = "Even";
-        String odd = "Odd";
-
-        int numberEven = 30;
-        int numberOdd = 51;
-
-
-        assertEquals(even,EvenOrOdd.even_or_odd(numberEven));
-        assertEquals(odd,EvenOrOdd.even_or_odd(numberOdd));
+        EvenOrOdd eoo = new EvenOrOdd();
+        assertEquals("Even", eoo.even_or_odd(6));
+        assertEquals("Odd", eoo.even_or_odd(7));
+        assertEquals("Even", eoo.even_or_odd(0));
+        assertEquals("Odd", eoo.even_or_odd(-1));
     }
 
 }
