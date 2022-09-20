@@ -7,7 +7,7 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 ![CODEWARS](img/img.png)
 
 #### IntelliJ
-![IntelliJ](img/img.png)
+![IntelliJ](img/IntelliJ.png)
 ##### Test
 
 - EvenOrOddTest: Se realiza una comprobación del funcionamiento del programa en base a números pares e impares
