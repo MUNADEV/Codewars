@@ -3,8 +3,8 @@
 Este repositorio corresponde a la recopilación de ejercicios realizados en la plataforma de codewars. Estos ejercicios se realizan utilizando el lenguajes de programacion `Java` en conjunto del framework de pruebas `Junit 4`
 
 ## Informacion de usuario
-Nombre de usuario: RicardoMillanaoB
-Estado de cuenta: Cuenta enlazada con Github
+- Nombre de usuario: RicardoMillanaoB
+- Estado de cuenta: Cuenta enlazada con Github
 
 ## Conclusiones
 
