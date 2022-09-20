@@ -1,7 +1,7 @@
 ## Sliding Puzzle Solver
 #### Level: 1 Kyu
 #### Estado: No completado
-![](img/puzzle img.png)
+![puzzle](img/puzzle.png)
 
 A sliding puzzle is a combination puzzle that challenges a player to slide (frequently flat) pieces along certain routes (usually on a board) to establish a certain end-configuration.
 
